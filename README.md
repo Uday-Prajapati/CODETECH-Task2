@@ -45,3 +45,7 @@ Encapsulating the calculation logic in a separate method (calculateAndDisplayGra
 
 # 4. Scalability:
 The program's modular design allows for easy extension, such as adding more subjects or introducing weighted averages.
+
+# Final Output
+![image](https://github.com/user-attachments/assets/d82f1268-aed1-46f0-b73c-1b8f46284228)
+
